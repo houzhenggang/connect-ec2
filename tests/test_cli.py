@@ -1,5 +1,4 @@
 import pytest
-import json
 from click.testing import CliRunner
 from connect_ec2 import cli
 
